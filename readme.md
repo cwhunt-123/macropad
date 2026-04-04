@@ -27,7 +27,7 @@ I built this macropad primarily as a hands-on learning experience to dive into c
  - 4x M3x5mx4mm
  - 4x M3x16mm Screws
  - 9x White Blank DSA Keycaps
- - 1.  3D Printed Case
+ - 1x 3D Printed Case
 
 https://cad.onshape.com/documents/48a17990b1831c041b00876b/w/f84d6e38766eb00843111f91/e/a30079d502902473d825c4da?renderMode=0&uiState=69cec4f78e56fd57fc233f29 
 
