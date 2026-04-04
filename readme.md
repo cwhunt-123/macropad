@@ -7,6 +7,16 @@
 <img width="1784" height="1201" alt="image" src="https://github.com/user-attachments/assets/1a609f5f-2f95-48c8-9caa-b87ab197997d" />
 <img width="1553" height="777" alt="image" src="https://github.com/user-attachments/assets/791cec78-b78a-41eb-b673-dc2c6f1c4ec1" />
 
+## Description
+
+Project Description
+This project is a custom-designed, 9-key mechanical macropad featuring a rotary encoder, powered by a Seeed Studio XIAO RP2040 microcontroller. It utilizes a custom-designed printed circuit board (PCB) to wire the MX-style switches and diodes, all housed within a custom designed 3d-printed case.
+
+How to Use It
+Once flashed with the compatible QMK keyboard firmware, simply connect the macropad to your computer via USB. You can press the mechanical keys to trigger your own personalized shortcuts, scripts, or macros, and use the rotary encoder for continuous adjustments like volume control, zooming, or timeline scrubbing.
+
+Why I Made It
+I built this macropad primarily as a hands-on learning experience to dive into custom hardware design from scratch. It served as the perfect practical project to teach myself how to design and route my own PCBs, as well as how to use CAD software to model a functional, precise 3D-printed case to fit my electronics.
 
 ## BOM
 
